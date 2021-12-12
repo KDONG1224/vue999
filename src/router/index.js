@@ -6,6 +6,8 @@ import Script from '../views/Script.vue';
 import Youtube from '../views/Youtube.vue';
 import Contact from '../views/Contact.vue';
 import Portfolio from '../views/Portfolio.vue';
+import Moive from '../views/Movie.vue';
+import MoiveDetail from '../views/MovieDetail.vue';
 
 const routes = [
   {
@@ -42,6 +44,17 @@ const routes = [
     path: '/portfolio',
     name: 'Portfolio',
     component: Portfolio,
+  },
+  {
+    path: '/movie',
+    name: 'Movie',
+    component: Moive,
+  },
+  {
+    path: '/moviedetail',
+    name: 'MovieDetail',
+    component: MoiveDetail,
+    props: true,
   },
   // {
   //   path: "/about",

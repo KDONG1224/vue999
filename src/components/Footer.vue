@@ -11,13 +11,22 @@
     <div>
       <h4>social</h4>
       <ul>
-        <li><a href="/">Youtube</a></li>
-        <li><a href="/">Instargram</a></li>
-        <li><a href="/">Github</a></li>
-        <li><a href="/">Cafe</a></li>
-        <li><a href="/">Referecne</a></li>
-        <li><a href="/">Tutorials</a></li>
-        <li><a href="/">CSS</a></li>
+        <li>
+          <a href="https://www.youtube.com/channel/UCHg7CuuNR5thugcU_vUmkzA"
+            >Youtube</a
+          >
+        </li>
+        <li><a href="https://www.instagram.com/noyclah_jdk/">Instargram</a></li>
+        <li><a href="https://github.com/KDONG1224">Github</a></li>
+        <li>
+          <a href="https://kdong1224.github.io/dothome21/index.html">Dothome</a>
+        </li>
+        <li>
+          <a href="http://kdong.dothome.co.kr/portfolio/index6.html"
+            >Portfolio</a
+          >
+        </li>
+        <li><a href="https://kdongsreact.web.app/">React</a></li>
       </ul>
     </div>
   </footer>

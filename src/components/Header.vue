@@ -13,6 +13,7 @@
         <li><router-link to="/youtube">Youtube</router-link></li>
         <li><router-link to="/script">Script</router-link></li>
         <li><router-link to="/contact">Contact</router-link></li>
+        <li><router-link to="/movie">Movie</router-link></li>
       </ul>
       <a href="/" class="ham">
         <span class="sr-only">menu</span>
